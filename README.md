@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Скопируйте токен, который он выдаст
 
 ### 5. Настройте bot.py
-Отредактируйте файл config.py:
+Отредактируйте файл main.py на строчках 24-26:
 ```python
 bot = Bot(token='ВАШ_ТОКЕН_ОТ_BOTFATHER')
 admin='1234567890'  # Ваш Telegram user ID
