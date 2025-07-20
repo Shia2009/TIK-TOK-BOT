@@ -1,6 +1,6 @@
 # Telegram TikTok Bot
-Этот проект — бот который скачивает видео по ссылке без водяного знака.
-This project is a bot that downloads videos from a link without a watermark.
+TikTok bot бот который скачивает по ссылке отправленный боту. В боте есть так называемая  обязательная подписка. Бот сделан на библиотеках 'aiogram' и 'yt-dlp'. В боте также есть оплата звездами.
+TikTok bot is a bot that downloads content from a link sent to the bot. The bot has a mandatory subscription. It is based on the 'aiogram' and 'yt-dlp' libraries. The bot also supports payment using stars.
 
 ---
 
