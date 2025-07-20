@@ -21,7 +21,7 @@ print('\n\n https://github.com/Shia2009/ \n\n')
 
 
 
-bot = Bot(token='7783596711:AAEdH8ixw4ErNJWiRBbWHNVcjtcxajaIKh0')
+bot = Bot(token='token_from_BOTFATHER')
 admin=''#Укажите id свой кому отпралвять о том что кто то скачивает или удаляет
 start_message='Привет ! <b> Отправь мне ссылку на видео которое нужно скачать</b>'#стартовое сообщение
 dp = Dispatcher()
